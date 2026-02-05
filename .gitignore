@@ -46,3 +46,8 @@ coverage/
 # Misc
 *.log
 logs/
+
+# MongoDB local binaries
+mongodb-macos-aarch64-*/
+mongodb-macos-*/
+*.tgz
